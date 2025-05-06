@@ -2,13 +2,13 @@
 
 Welcome to my GitHub profile! 😊  
 
-## 👀 My Interests Include  
-- Machine Learning & Neural Networks 🤖  
-- Backend Development & System Design 🏗️  
+## 👀 My Interests Include   
+- Backend Development & System Design 🏗️
+- Machine Learning & Neural Networks 🤖 
 
 ## 🌱 Currently Learning  
-- **Programming:** C++, Python  
-- **AI/ML:** Machine Learning, Neural Networks  
+- **Programming:** C++, Python
+- **AI/ML:** Deep Learning, Neural Networks  
 - **Backend:** APIs, Databases, and Server Management  
 
 ## 🚀 Projects I'm Working On  
@@ -25,5 +25,6 @@ Welcome to my GitHub profile! 😊
 ## 📫 Connect with Me  
 📧 Email: [panlily2002@gmail.com](mailto:panlily2002@gmail.com)  
 🔗 LinkedIn: [lily-pandey](https://www.linkedin.com/in/lily-pandey/)  
+🔗 [LeetCode Profile](https://leetcode.com/u/lilypandey/)
 
 ✨ *Always learning & building cool things!* 🚀  
